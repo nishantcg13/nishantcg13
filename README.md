@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nishant+👋;Java+Developer+%7C+Flutter+Developer;Loves+to+Code+and+Build+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&width=435&lines=Hey%2C+I'm+Nishant!;Java+%26+Flutter+Developer;Tech+Enthusiast+%F0%9F%9A%80;Learning+Something+New+Everyday" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -9,7 +10,7 @@
 - 🔭 I’m a passionate **Java & Flutter Developer**
 - 💬 Ask me about **Java, Dart, Flutter, OOPs, Firebase**
 - 🌱 Currently exploring **Backend & UI/UX**
-- 📧 Reach me: [nishantcg13@gmail.com](mailto:nishantcg13)  
+- 📧 Reach me: [nishantwork13@gmail.com](mailto:nishantwork13@gmail.com)  
 - ⚡ Fun fact: _I enjoy turning ideas into real working apps!_
 
 ---
