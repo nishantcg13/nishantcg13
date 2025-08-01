@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m a passionate **Java & Flutter Developer**
-- 💬 Ask me about **Java, Dart, Flutter, OOPs, Firebase**
+- 💬 Ask me about **Java, Dart, Flutter, OOPs, Firebase, SQFLite**
 - 🌱 Currently exploring **App Development and DSA**
 - 📧 Reach me: [nishantwork13@gmail.com](mailto:nishantwork13@gmail.com)  
 - ⚡ Fun fact: _I enjoy turning ideas into real working apps!_
