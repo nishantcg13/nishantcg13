@@ -44,7 +44,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishantcg13&show_icons=true&theme=tokyonight" />
@@ -57,6 +57,32 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantcg13&theme=tokyo-night" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantcg13&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishantcg13&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/nishantcg13/nishantcg13/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
