@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
 - 🔭 I’m a passionate **Java & Flutter Developer**  
 - 💬 Ask me about **Java, Dart, Flutter, OOPs, Firebase, SQFLite**  
@@ -15,9 +15,9 @@
 
 ---
 
-### 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
-<!-- marquee is allowed on GitHub; if it ever gets sanitized, the static row below will still show -->
+<!-- marquee may be sanitized by GitHub in the future; the static fallback below will remain visible -->
 <p align="center">
   <marquee behavior="alternate" direction="left" scrollamount="5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" alt="Java"/>
@@ -29,7 +29,6 @@
   </marquee>
 </p>
 
-<!-- fallback static row (if marquee is stripped by sanitizer) -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48px" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48px" />&nbsp;
@@ -41,7 +40,7 @@
 
 ---
 
-### 🤝 Connect with Me
+# 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nishantgalande1113" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -53,13 +52,12 @@
 
 ---
 
-### 📊 GitHub Stats (may be rate-limited occasionally)
+# 📊 GitHub Stats (may be rate-limited occasionally)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishantcg13&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- use demolab streaks which is more stable than old heroku endpoint -->
   <img src="https://streak-stats.demolab.com?user=nishantcg13&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
@@ -73,31 +71,18 @@
 
 ---
 
-### 🏆 Trophies / Highlights
-<!-- server for trophies can sometimes be down; if it's down you'll still see the alt text -->
+# 🏆 Trophies / Highlights
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishantcg13&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="Trophies (may be temporarily unavailable)"/>
 </p>
 
 ---
 
-### 💬 Daily Quote (fallback-aware)
+# 💬 Daily Quote (fallback-aware)
 <p align="center">
-  <!-- multiple providers — fallback to another URL if the first one returns a server error -->
   <picture>
     <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
     <img src="https://quotes-github-readme-bay.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </picture>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-snake" src="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
