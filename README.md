@@ -1,7 +1,5 @@
 <p align="center">
-  
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&width=500&lines=Hey%2C+I%27m+Nishant!;Java+%26+Flutter+Developer;Tech+Enthusiast+%F0%9F%9A%80;Learning+Something+New+EveryDay;Building+Cool+Projects+%F0%9F%9A%80)
-
 </p>
 
 ---
@@ -82,7 +80,13 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/nishantcg13/nishantcg13/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake" src="https://raw.githubusercontent.com/nishantcg13/nishantcg13/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
