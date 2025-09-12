@@ -79,11 +79,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/nishantcg13/nishantcg13/blob/output/github-contribution-grid-snake.svg)
-
----
-
-![wave](https://github.com/andreasbm/readme/blob/master/assets/wave.svg)
