@@ -34,7 +34,7 @@
 ### 🤝 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishantgalande1113" target="_blank">
+  <a href="https://www.linkedin.com/in/nishantcg13" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nishantwork13@gmail.com">
