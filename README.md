@@ -36,6 +36,18 @@
 
 ---
 
+## 🧱 Backend Engineering Focus
+
+✔ Writing clean **REST APIs**  
+✔ Database-driven backend logic  
+✔ CRUD applications using Spring Boot  
+✔ Understanding request–response lifecycle  
+✔ Improving code structure & best practices  
+
+> I focus on **backend fundamentals first**, before moving to advanced concepts.
+
+---
+
 ## 📌 What I’m Currently Working On
 
 - 🔹 Spring Boot CRUD & REST API projects  
@@ -51,7 +63,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantcg13&show_icons=true&theme=tokyonight&cache_seconds=180)
-
+⭐ *Stats come and go. Skills stay.*
