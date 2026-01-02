@@ -46,7 +46,7 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Backend%20Fresher-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishantcg13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Backend%20Fresher-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishantgalande1113)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Java%20DSA-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nishantcg13)
 
 ---
