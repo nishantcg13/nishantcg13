@@ -4,7 +4,6 @@
 
 ## 👨‍💻 About Me
 
-
 - 🧠 **Java Backend Developer (Fresher)**
 - ⚙️ Working with **Spring Boot & RESTful APIs**
 - 🗄️ Hands-on experience with **MySQL, JPA/Hibernate**
