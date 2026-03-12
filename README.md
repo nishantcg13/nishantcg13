@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=4CAF50&width=700&lines=Hi,+I'm+Nishant+👋;Java+Backend+Developer+(Fresher);Spring+Boot+|+REST+APIs+|+MySQL;Focused+on+Backend+Development)
 
----
+----
 
 ## 👨‍💻 About Me
 
